@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=1abc9c&height=300&section=header&text=fightingting&fontSize=100&fontColor=ffffff)
+![Nayeon-Ryu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nayeon-Ryu&&show_icons=true&theme=vue&height=100)
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nonehellow&height=100)](https://solved.ac/nonehellow)
